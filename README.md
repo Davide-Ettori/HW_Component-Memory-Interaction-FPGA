@@ -1,1 +1,1 @@
-Hardware Component developed in VHDL using the (Xilinx) Vivado Software.
+# Hardware Component developed in VHDL using the (Xilinx) Vivado Software.
