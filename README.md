@@ -1,5 +1,5 @@
 # Hardware Component developed in VHDL using the (Xilinx) Vivado Software.
-Polytechnic of Milan - Prof. Fabio Salice - Digital Circuits Design<br><br>
+Politecnico di Milano - Prof. Fabio Salice - Digital Circuits Design<br><br>
 Final Grade: 30 Cum Laude / 30<br><br>
 The purpose of the project is to implement a hardware module that replicates the functionalities of a pointer dereferencer, commonly found in programming languages such as C.<br>
 At a high level of abstraction, the system receives instructions regarding a memory location, the contents of which need to be directed to one of the four available output channels. Instructions about the channel to use and the memory address to access are provided through a serial input bit, while the system outputs, namely the aforementioned channels, provide all the memory word bits in parallel.<br><br>
